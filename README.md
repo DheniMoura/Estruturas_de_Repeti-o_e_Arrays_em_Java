@@ -1,1 +1,2 @@
-# Estruturas_de_Repeti-o_e_Arrays_em_Java
+# Estruturas de Repetição e Arrays em Java
+Este repositório contém exemplos e exercícios do curso de [Estruturas de Repetição e Arrays em Java](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c?back=/track/orange-tech-backend&tab=undefined&moduleId=undefined) ministrado pela [DIO](https://www.dio.me/) no BootCamp [Orange Tech + | BackEnd](https://web.dio.me/track/2aeff5aa-bb23-4141-8109-20fa42b58ff7).
